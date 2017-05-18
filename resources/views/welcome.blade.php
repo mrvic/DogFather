@@ -81,6 +81,7 @@
                 <div class="title m-b-md">
                     BONE
                 </div>
+                <h3>admin : 123456</h3>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
